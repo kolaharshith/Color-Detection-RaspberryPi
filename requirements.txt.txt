@@ -1,3 +1,0 @@
-flask
-adafruit-blinka
-adafruit-circuitpython-tcs34725
