@@ -14,6 +14,7 @@ This project implements a real-time color detection system using the TCS34725 se
 
 > ✅ **Tested Successfully on Raspberry Pi Hardware**
 ## 📷 Output
+![Output1](images/project_model.png)
 ![Output1](images/output1.png)
 ![Output2](images/output2.png)
 ![Output1](images/output3.png)
